@@ -1,6 +1,6 @@
 {
     "name": "unified-node-open-mining-portal",
-    "version": "0.0.6",
+    "version": "0.0.6a",
     "description": "An extremely efficient, highly scalable, all-in-one, easy to setup cryptocurrency mining pool",
     "keywords": [
         "stratum",
@@ -39,7 +39,7 @@
         "url": "https://github.com/UNOMP/unified-node-open-mining-portal.git"
     },
     "dependencies": {
-        "merged-pooler": "git://github.com/UNOMP/node-merged-pool",
+        "merged-pooler": "git://github.com/JohnDorien1/node-merged-pool",
         "dateformat": "*",
 	"log4js": "*",
 	"bitcoin": "*",
